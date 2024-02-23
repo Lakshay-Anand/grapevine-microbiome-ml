@@ -12,4 +12,4 @@ Lakshay Anand<sup>1</sup>, Thanos Gentimis<sup>2</sup>, Allan Bruce Downie<sup>3
 
 3 Department of Horticulture, Martin-Gatton College of Agriculture, Food and Environment, University of Kentucky, Lexington, KY, United States
 
-*Contact Corresponding author: cmro267@uky.edu
+*Contact Corresponding author:  Carlos M. Rodriguez Lopez(cmro267@uky.edu)
