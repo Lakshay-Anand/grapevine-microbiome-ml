@@ -1,9 +1,5 @@
-# Grapevine Microbiome Machine Learning
 
-Code repository for the manuscript **Machine Learning Reveals Scion and Rootstock Signatures in the Global Grapevine Soil Microbiome**.
-
-
-# Grapevine Microbiome Machine Learning
+# Grapevine Microbiome Machine Learning 🪴🌿🌱🍇
 
 Code and workflows associated with:
 
@@ -51,7 +47,6 @@ It also contains Neural Network scripts for continent, country, scion cultivar, 
 ├── CITATION.cff
 ├── data/
 │   └── README.md
-├── results/
 └── scripts/
     ├── analysis_config.py
     ├── data_utils.py
@@ -64,7 +59,8 @@ It also contains Neural Network scripts for continent, country, scion cultivar, 
     ├── train_nn_approachB_scion.py
     ├── train_nn_approachB_rootstock.py
     ├── train_nn_approachB_scion_rootstock.py
-    └── shap_analysis.py
+    ├── shap_analysis.py
+    └── original_code.py
 ```
 
 ## Input data
@@ -172,3 +168,7 @@ Random seeds are fixed where supported. The scripts report class counts after fi
 ## Citation
 
 Please cite the associated manuscript. Update `CITATION.cff` with the final journal, year, DOI, and version after acceptance.
+
+## Original code preservation
+
+The analysis workflows in this repository have been refactored with AI assistance to improve clarity and reproducibility. The original analysis code is preserved in [`scripts/original_code.py`](scripts/original_code.py).
