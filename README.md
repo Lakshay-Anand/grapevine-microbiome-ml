@@ -70,7 +70,7 @@ The scripts expect a pandas pickle file named:
 ```text
 data/FeatureDataWoOut.pkl
 ```
-The file can be downloaded from:
+The file can be downloaded from: https://github.com/Lakshay-Anand/grapevine-microbiome-ml/releases/download/w_data/FeatureDataWoOut.pkl
 
 The file must contain CLR-normalized microbiome features followed by six metadata columns. The required target columns are `Country`, `Continent`, `Grape_variety`, `Rootstock`, and `comb`. The `comb` field stores scion-rootstock combinations.
 
