@@ -167,7 +167,7 @@ Random seeds are fixed where supported. The scripts report class counts after fi
 
 ## Citation
 
-Please cite the associated manuscript. Update `CITATION.cff` with the final journal, year, DOI, and version after acceptance.
+Please cite the associated manuscript. 
 
 ## Original code preservation
 
