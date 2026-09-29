@@ -1,6 +1,6 @@
 # Input data
 
-The input data can be downloaded: 
+The input data can be downloaded: https://github.com/Lakshay-Anand/grapevine-microbiome-ml/releases/download/w_data/FeatureDataWoOut.pkl
 
 ```text
 FeatureDataWoOut.pkl
